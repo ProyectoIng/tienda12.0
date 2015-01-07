@@ -1,0 +1,34 @@
+<root>
+  <Categoria>
+    <Nombre>Electrónicos</Nombre>
+    <Id>1</Id>
+  </Categoria>
+  <Categoria>
+    <Nombre>cocina</Nombre>
+    <Id>4</Id>
+  </Categoria>
+  <Categoria>
+    <Nombre>comida</Nombre>
+    <Id>5</Id>
+  </Categoria>
+  <Categoria>
+    <Nombre>harina</Nombre>
+    <Id>6</Id>
+  </Categoria>
+  <Categoria>
+    <Nombre>carros</Nombre>
+    <Id>7</Id>
+  </Categoria>
+  <Categoria>
+    <Nombre>lanchas</Nombre>
+    <Id>8</Id>
+  </Categoria>
+  <Categoria>
+    <Nombre>Aviones</Nombre>
+    <Id>11</Id>
+  </Categoria>
+  <Categoria>
+    <Nombre>helados</Nombre>
+    <Id>9</Id>
+  </Categoria>
+</root>

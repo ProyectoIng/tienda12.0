@@ -1,0 +1,50 @@
+<root>
+  <Producto>
+    <Nombre>poodle</Nombre>
+    <Descripcion>uhu</Descripcion>
+    <Precio>hu</Precio>
+    <Imagen>C:\Documents and Settings\luis\Escritorio\PantallaAdmin.jpg</Imagen>
+    <Categoria>perros</Categoria>
+    <Proveedor>ds</Proveedor>
+    <Id>2</Id>
+    <Estado>Activo</Estado>
+    <CantidadMinima>22</CantidadMinima>
+    <CantidadActual />
+  </Producto>
+  <Producto>
+    <Nombre>lancer</Nombre>
+    <Descripcion>locura</Descripcion>
+    <Precio>123333</Precio>
+    <Imagen>C:\Documents and Settings\luis\Escritorio\virtuemart-logo.jpg</Imagen>
+    <Categoria>carros</Categoria>
+    <Proveedor>LACRITA</Proveedor>
+    <Id>6</Id>
+    <Estado>Inacivo</Estado>
+    <CantidadMinima>11</CantidadMinima>
+    <CantidadActual />
+  </Producto>
+  <Producto>
+    <Nombre>Microhondas</Nombre>
+    <Descripcion>Eléctrico</Descripcion>
+    <Precio>1212121</Precio>
+    <Imagen>C:\Documents and Settings\luis\Escritorio\PantallaPrincipal.jpg</Imagen>
+    <Categoria>cocina</Categoria>
+    <Proveedor>PUERCO</Proveedor>
+    <Id>7</Id>
+    <Estado>Activo</Estado>
+    <CantidadMinima>12</CantidadMinima>
+    <CantidadActual />
+  </Producto>
+  <Producto>
+    <Nombre>Doña Juana</Nombre>
+    <Descripcion>Fina</Descripcion>
+    <Precio>22222</Precio>
+    <Imagen>C:\Documents and Settings\luis\Escritorio\result (1).jpg</Imagen>
+    <Categoria>harina</Categoria>
+    <Proveedor>Petare</Proveedor>
+    <Id>4</Id>
+    <Estado>Activo</Estado>
+    <CantidadMinima>150</CantidadMinima>
+    <CantidadActual />
+  </Producto>
+</root>
